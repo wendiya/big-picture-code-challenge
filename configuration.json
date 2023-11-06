@@ -1,0 +1,4 @@
+{
+      "table_name": "books_library",
+      "path_to_database": "databases/books_library.db"
+}
